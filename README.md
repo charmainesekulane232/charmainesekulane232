@@ -1,16 +1,45 @@
-## Hi there 👋
 
-<!--
-**charmainesekulane232/charmainesekulane232** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Mahlatse Charmaine Sekulane 👋
 
-Here are some ideas to get you started:
+👩🏽‍💻 Junior Software Developer | Python & Django  
+📍 South Africa  
+🎓 Software Development Graduate (NQF Level 5)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👩🏽‍💻 About Me
+I am an aspiring software developer with hands-on experience in Python programming and Django web development. I enjoy building practical applications, learning new technologies, and improving my problem-solving skills.
+
+I have experience working with Django (including IndieDjango-style projects), REST APIs, and basic frontend integration. I am actively seeking a **Junior Software Developer / Python Developer** role where I can grow and contribute to real-world projects.
+
+---
+
+## 🛠️ Tech Stack
+- **Languages:** Python, HTML, CSS, JavaScript  
+- **Frameworks:** Django  
+- **Databases:** SQLite, PostgreSQL (basic)  
+- **Tools:** Git, GitHub, VS Code  
+- **Other:** REST APIs, CRUD Applications  
+
+---
+
+## 📂 Projects
+📌 My featured projects are pinned below.  
+Each project includes a README explaining the problem, solution, and technologies used.
+
+---
+
+## 🌱 Currently Learning
+- Advanced Django
+- Django REST Framework
+- Clean code & best practices
+
+---
+
+## 📫 Contact Me
+- 📧 Email: charmainesekulane@gmail.com  
+- 💼 LinkedIn:  www.linkedin.com/in/charmaine-sekulane-308139387
+
+---
+
+⭐ Always learning. Always building.
