@@ -1,43 +1,69 @@
+
 <div align="center">
 
 # 👋 Charmaine Sekulane ✨💻  
-### *Emerging Software Developer | Python • Django • AI Enthusiast*
+### *Aspiring Software Developer | Front-End • Python • AI Enthusiast*
 
-Vibing to clean code 🎧 | Building real-world projects 🚀 | Learning every day 🌱
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+🎧 Vibing to clean code | 🚀 Building real-world projects | 🌱 Learning every day  
 
 </div>
 
 ---
 
-## 🌟 My Vibe Statement
+## 🎧 My Vibe Statement
 
-✨ From writing Python scripts to building Django apps,  
-I’m on a journey to **turn ideas into working software**.  
-I love solving problems, learning new tech, and growing into a confident developer.
-
----
-
-## 🛠️ Tech Stack & Tools
-
-### 👩‍💻 Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### ⚙️ Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+✨ From learning software development fundamentals to earning Microsoft Learn achievements,  
+I’m on a journey to **grow into a confident, job-ready software developer**.  
+I enjoy problem-solving, front-end development, and exploring AI-powered solutions.
 
 ---
 
-## 📊 GitHub Stats
+## 🏅 Certifications & Badges
+
+### 🔷 Microsoft Learn Achievements
+
+[![Microsoft Learn](https://img.shields.io/badge/Microsoft-Learn%20Achievement-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/api/achievements/share/en-us/MahlatseCharmaineSekulane-9564/H7H96FG8)
+
+[![Microsoft Learn](https://img.shields.io/badge/Microsoft-Learn%20Achievement-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/api/achievements/share/en-us/MahlatseCharmaineSekulane-9564/FMFW7DWX)
+
+[![Microsoft Learn](https://img.shields.io/badge/Microsoft-Learn%20Achievement-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/api/achievements/share/en-us/MahlatseCharmaineSekulane-9564/HZWW2EZ8)
+
+[![Microsoft Learn](https://img.shields.io/badge/Microsoft-Learn%20Achievement-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/api/achievements/share/en-us/MahlatseCharmaineSekulane-9564/FQYS8Q5X)
+
+[![Microsoft Learn](https://img.shields.io/badge/Microsoft-Learn%20Achievement-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/api/achievements/share/en-us/MahlatseCharmaineSekulane-9564/378KC6RH)
+
+[![Microsoft Learn](https://img.shields.io/badge/Microsoft-Learn%20Achievement-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/api/achievements/share/en-us/MahlatseCharmaineSekulane-9564/YP7S736R)
+
+[![Microsoft Learn](https://img.shields.io/badge/Microsoft-Learn%20Achievement-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/api/achievements/share/en-us/MahlatseCharmaineSekulane-9564/UAA4JRJ3)
+
+### 🔷 Google for Developers
+
+[![Google for Developers](https://img.shields.io/badge/Google%20for%20Developers-Member-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://developers.google.com/profile)
+
+---
+
+## ⚔️ Tech Stack & Arsenal
+
+**Languages & Front-End**
+- HTML5 • CSS3 • JavaScript  
+- React (Learning)
+
+**Programming & Tools**
+- Python  
+- Git & GitHub  
+- VS Code  
+
+**Currently Exploring**
+- AI fundamentals  
+- Software engineering best practices  
+
+---
+
+## 📊 GitHub Stats & Grind
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=charmainesekulane232&show_icons=true&theme=tokyonight)
+![Charmaine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=charmainesekulane232&show_icons=true&theme=tokyonight)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=charmainesekulane232&layout=compact&theme=tokyonight)
 
@@ -47,33 +73,35 @@ I love solving problems, learning new tech, and growing into a confident develop
 
 ## 🚀 Projects & Quests
 
-🔹 **Student Management System**  
-> Django-based system for managing users, roles, and data
+🟢 **Front-End Practice Projects**  
+> HTML, CSS & JavaScript projects focused on layout, responsiveness, and UI
 
-🔹 **Python Automation Scripts**  
-> Scripts that automate everyday tasks and data processing
+🟢 **Python Learning Projects**  
+> Beginner-friendly scripts and logic-building exercises
 
-🔹 **Portfolio Website (Coming Soon)**  
-> Personal developer portfolio built with HTML, CSS & JS
-
----
-
-## 🎯 My Mission
-
-🌱 **Currently Learning:**  
-- Advanced Django  
-- APIs & REST Framework  
-- Software engineering best practices  
-
-🏆 **Goal:**  
-To become a **professional Python / Software Developer** and work on impactful tech projects.
+🟢 **Software Development Journey**  
+> Ongoing projects as I grow into full-stack development
 
 ---
 
-## 🤝 Let’s Connect
+## 🎯 My Mission & Endgame
 
-📧 Email: **charmainesekulane@gmail.com**  
-💼 LinkedIn: *(add link)*  
-🌍 Portfolio: *(coming soon)*
+🌱 **Grinding Now:**  
+- Strengthening front-end development skills  
+- Building confidence through projects  
+- Expanding Python & AI knowledge  
 
-✨ *Thanks for visiting my profile!* ✨
+🏆 **Ultimate Goal:**  
+Become a **professional Software Developer** working on meaningful, real-world solutions.
+
+---
+
+## 🤝 Let’s Team Up!
+
+💼 LinkedIn:  
+https://www.linkedin.com/in/charmaine-sekulane-308139387  
+
+📧 Email:  
+charmainesekulane@gmail.com)*  
+
+✨ *Thanks for visiting my GitHub profile!* ✨
