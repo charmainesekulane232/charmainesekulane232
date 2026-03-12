@@ -1,116 +1,221 @@
-<!-- 🌸 AESTHETIC HEADER -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:f7c1e3,100:dcc7ff&height=230&section=header&text=Charmaine%20Sekulane&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-</div>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--         MAHLATSE CHARMAINE SEKULANE — GitHub Profile README      -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-### 🌷 Aspiring Software Developer  
-**Front-End Development • Python • AI Foundations**
-
-Focused on building reliable, user-friendly software  
-with continuous learning and professional growth.
+<!-- Animated Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Mahlatse%20Charmaine%20Sekulane&fontSize=36&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Azure%20AI%20Engineer%20%7C%20Software%20Developer%20%7C%20Builder%20of%20Intelligent%20Systems&descAlignY=58&descAlign=50&descColor=ffb3c6" width="100%"/>
 
 </div>
 
 ---
 
-<!-- 🌸 AVATAR / AESTHETIC IMAGE -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749918-0f6cc07f-91e1-4c18-b7f3-6c8db35e9a6e.gif" width="220"/>
+
+<!-- Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=22&pause=1000&color=D63384&center=true&vCenter=true&width=700&lines=Microsoft+Certified+Azure+AI+Engineer+%F0%9F%A4%96;Python+%7C+Java+%7C+RESTful+APIs+%7C+RAG+Systems;Building+secure%2C+intelligent+backend+systems;From+South+Africa+%F0%9F%87%BF%F0%9F%87%A6+with+code+%26+ambition)](https://git.io/typing-svg)
+
 </div>
 
 ---
 
-## ✨ Professional Summary
+## 🌸 About Me
 
-i am motivated and detail-orientated aspriring IT professional with a strong foundtation in software development and pratical IT training . i have completed multiple hands-on projects 
-and participated in structured training programmes that exposed me to the real-world  problem solving ,teamwork and continuous learning. 
-i am passionate about buliding pratical solutions using technology and growing into  a well rounded IT professional.
+```python
+class Charmaine:
+    name       = "Mahlatse Charmaine Sekulane"
+    location   = "South Africa 🇿🇦"
+    role       = "Software Developer & Azure AI Engineer"
+    languages  = ["Python", "Java", "JavaScript", "HTML5", "CSS3"]
+    focus      = ["AI Integration", "Backend Security", "RAG Systems", "Cloud"]
+    certified  = "Microsoft Azure AI Engineer Associate ✅"
+    mission    = "Build AI-powered systems that make a real-world impact 🚀"
+    fun_fact   = "I debug faster when there's good music playing 🎵"
+```
 
 ---
 
-## 🛠️ Technical Skills
+## 🏅 Certifications & Badges
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
-<img src='https://www.bing.com/th/id/OIP.DjJ6iBhVMONi0k8FrRfZYQHaHa?w=180&h=211&c=8&rs=1&qlt=90&r=0&o=6&pid=3.1&rm=2 />' style='width:100%;max=width:500px;>
-<img src='data:image/jpeg;base64,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
-<img src=':https://www.codewars.com/users/charmainesekulane232/badges/small'/>
-</div>
+<!-- Row 1: Microsoft Learn Badges -->
+<a href="https://learn.microsoft.com/en-us/certifications/azure-ai-engineer/" title="Azure AI Engineer Associate">
+  <img src="https://img.shields.io/badge/Azure%20AI%20Engineer-Associate-FF69B4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://learn.microsoft.com/en-us/certifications/power-platform-fundamentals/" title="PL-900 Power Platform">
+  <img src="https://img.shields.io/badge/PL--900-Power%20Platform-FF85C0?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://learn.microsoft.com/en-us/training/paths/get-started-with-artificial-intelligence-on-azure/" title="Azure AI Fundamentals">
+  <img src="https://img.shields.io/badge/Azure%20AI-Fundamentals-FFB3D1?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+</a>
 
----
+<br/><br/>
 
-## 🏆 Achievements & Certifications
+<!-- Row 2: More Microsoft + Cisco -->
+<a href="https://learn.microsoft.com/en-us/training/paths/azure-fundamentals/" title="Azure Fundamentals">
+  <img src="https://img.shields.io/badge/Azure-Fundamentals-E83E8C?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://learn.microsoft.com/en-us/training/generative-ai/" title="Generative AI">
+  <img src="https://img.shields.io/badge/Generative%20AI-Microsoft%20Learn-FF4DA6?style=for-the-badge&logo=openai&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://www.netacad.com/" title="Cisco Networking">
+  <img src="https://img.shields.io/badge/Cisco-Networking%20Fundamentals-FF69B4?style=for-the-badge&logo=cisco&logoColor=white" />
+</a>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749695-3c2e7d9c-5a7d-4df1-9e16-6b1a25b9c97b.gif" width="120"/>
-</div>
+<br/><br/>
 
-### 🏆 Microsoft Learn Achievements
-
-- 🏆 Microsoft Learn Credential  
-  🔗 [View Certificate](https://learn.microsoft.com/api/achievements/share/en-us/MahlatseCharmaineSekulane-9564/H7H96FG8)
-
-- 🏆 Microsoft Learn Credential  
-  🔗 [View Certificate](https://learn.microsoft.com/api/achievements/share/en-us/MahlatseCharmaineSekulane-9564/FMFW7DWX)
-
-- 🏆 Microsoft Learn Credential  
-  🔗 [View Certificate](https://learn.microsoft.com/api/achievements/share/en-us/MahlatseCharmaineSekulane-9564/HZWW2EZ8)
-
-- 🏆 Microsoft Learn Credential  
-  🔗 [View Certificate](https://learn.microsoft.com/api/achievements/share/en-us/MahlatseCharmaineSekulane-9564/FQYS8Q5X)
-
-### 🏆 Google for Developers
-
-- 🏆 Google for Developers — Community Member  
-
----
-
-## 📚TRAINING AND CERTIFICATIONS 
-. WETHINKCODE_ -Digital inclusion programme
-. NQF Level 5 Qualification 
-. Online Courses & continuous Learning (python , discrete mathemathetics , AI fundamentals)
-
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212750208-40c02d0b-dbc1-4a8d-b24b-6a3c3f25f2a9.gif" width="260"/>
-</div>
-## PROJECTS 
-🔹 Bulit multiple python applications focusing on logic , data handling and automation . 
-
-## WEB DEVELOPMENT PROJECTS 
-🔹 responsive web pages using HTML , JAVASCRIPT and CSS .
-
-🔹 **AI & Technology Exploration**  
-Foundational exposure to AI concepts through guided learning and practice. Developed beginner -level projects using GENERATIVE AI concepts .
-worked with retrieval-augmentated generation (RAG) for infomation-based solutions . (more projects currently being improved and uploaded)
-
----
-
-
-## 🎯 Career Goals
-
-- IT internship & Learnerships  
--  Software development 
--  Data & AI-driven solutions
--  Continuous techinal growth
-
----
-
-## 🤝 Let’s Connect
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/charmaine-sekulane-308139387">
-  <img src="https://img.shields.io/badge/LinkedIn-Charmaine%20Sekulane-f7c1e3?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<!-- Row 3: HackerRank + LeetCode + Bonus -->
+<a href="https://www.hackerrank.com/" title="HackerRank Problem Solving">
+  <img src="https://img.shields.io/badge/HackerRank-Problem%20Solving-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://leetcode.com/" title="LeetCode Problem Solving">
+  <img src="https://img.shields.io/badge/LeetCode-Problem%20Solving-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+&nbsp;
+<a href="https://learn.microsoft.com/en-us/training/paths/responsible-ai-principles/" title="Responsible AI">
+  <img src="https://img.shields.io/badge/Responsible%20AI-Microsoft%20Learn-C2185B?style=for-the-badge&logo=microsoftazure&logoColor=white" />
 </a>
 
 </div>
 
 ---
 
+## 🛠️ Tech Stack & Arsenal
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:dcc7ff,100:f7c1e3&height=120&section=footer"/>
+
+**Languages & Markup**
+
+![Python](https://img.shields.io/badge/Python-FF69B4?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-FF85C0?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFB3D1?style=for-the-badge&logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-FF69B4?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-E83E8C?style=for-the-badge&logo=css3&logoColor=white)
+
+**Backend & Security**
+
+![RESTful API](https://img.shields.io/badge/REST%20APIs-FF69B4?style=for-the-badge&logo=fastapi&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT%20Auth-FF85C0?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP%20Design-FFB3D1?style=for-the-badge&logo=java&logoColor=white)
+
+**AI & Cloud**
+
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-D63384?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG%20Systems-FF69B4?style=for-the-badge&logo=openai&logoColor=white)
+![GenAI](https://img.shields.io/badge/Generative%20AI-E83E8C?style=for-the-badge&logo=openai&logoColor=white)
+![Power Platform](https://img.shields.io/badge/Power%20Platform-FFB3D1?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+**Tools & Practices**
+
+![Git](https://img.shields.io/badge/Git-FF69B4?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-FF85C0?style=for-the-badge&logo=github&logoColor=white)
+![Agile](https://img.shields.io/badge/Agile%20Dev-D63384?style=for-the-badge&logo=scrumalliance&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco%20Networking-FF69B4?style=for-the-badge&logo=cisco&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=charmainesekulane232&show_icons=true&theme=radical&bg_color=fff0f6&border_color=FF69B4&icon_color=D63384&title_color=C2185B&text_color=6d214f&ring_color=FF85C0" height="165"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=charmainesekulane232&layout=compact&theme=radical&bg_color=fff0f6&border_color=FF69B4&title_color=C2185B&text_color=6d214f" height="165"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=charmainesekulane232&theme=radical&background=fff0f6&border=FF69B4&stroke=FF85C0&ring=D63384&fire=C2185B&currStreakNum=C2185B&sideNums=6d214f&currStreakLabel=D63384&sideLabels=D63384&dates=6d214f" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### 🗳️ Java-Based Online Voting System
+> **Secure, object-oriented application** for managing and tallying votes — built with modular design, structured input validation, and secure data handling mechanisms.
+
+`Java` `OOP` `Data Validation` `Security`
+
+---
+
+### 🤖 AI Portfolio Chatbot (RAG-Based)
+> **Interactive chatbot** powered by Retrieval-Augmented Generation — structured document retrieval workflows delivering context-aware, dynamic responses with precision prompt engineering.
+
+`Python` `RAG` `Azure AI` `Generative AI` `Prompt Engineering`
+
+---
+
+### 🌐 Web Development Projects
+> **Responsive full-stack interfaces** built with HTML, CSS, and JavaScript — integrating frontend components with backend logic for seamless user experiences.
+
+`HTML5` `CSS3` `JavaScript` `Full-Stack` `Responsive Design`
+
+---
+
+## 💼 Professional Experience
+
+**Software Development Intern @ Oasis InfoByte**
+- 🔐 Implemented **JWT-based authentication** to secure API endpoints & manage user access
+- 🛠️ Developed **backend services** using Python & RESTful APIs
+- 🗄️ Designed **structured database components** with data validation
+- 🧪 Conducted **API endpoint testing & debugging** for system reliability
+- 🤝 Collaborated in **Agile environments** — stand-ups, code reviews, Git workflows
+
+**Volunteer Presenter @ HackerRank Problem Solving Session (UNISA)**
+- 🎤 Delivered **technical walkthroughs** on algorithmic problem-solving strategies
+- 🐛 Guided participants through **debugging techniques & logical code implementation**
+- 🏆 Recognized for outstanding **technical knowledge-sharing contributions**
+
+---
+
+## 🎓 Education & Training
+
+| Qualification | Institution | Year |
+|---|---|---|
+| Occupational Certificate: Software Developer (NQF 5) | QCTO | 2026 |
+| Microsoft Certified: Azure AI Engineer Associate | NEMISA | Feb 2026 |
+| Comprehensive Software Development Certificate | Geeks4Learning | Nov 2025 |
+| Accenture Python Bootcamp | GirlCode | 2025 |
+| PL-900: Power Platform Fundamentals | Microsoft Elevate | 2025 |
+| Networking Fundamentals & IT Essentials | Cisco Networking Academy | 2025 |
+| Digital Inclusion Programme | WeThinkCode_ | — |
+| National Senior Certificate | Hlanganani Secondary School | 2024 |
+
+---
+
+## 🌍 Languages
+
+🇬🇧 **English** — Fluent &nbsp;|&nbsp; 🇿🇦 **Sepedi** — Fluent &nbsp;|&nbsp; 🇿🇦 **Zulu** — Conversational
+
+---
+
+## 📬 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Charmaine%20Sekulane-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/charmaine-sekulane-308139387)
+[![GitHub](https://img.shields.io/badge/GitHub-charmainesekulane232-D63384?style=for-the-badge&logo=github&logoColor=white)](https://github.com/charmainesekulane232)
+[![Email](https://img.shields.io/badge/Email-charmainesekulane%40gmail.com-FF85C0?style=for-the-badge&logo=gmail&logoColor=white)](mailto:charmainesekulane@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Build with intention. Code with purpose. Grow without limits."* 🌸
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=100&section=footer&fontColor=fff" width="100%"/>
+
 </div>
